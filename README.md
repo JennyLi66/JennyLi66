@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Jennny. This is my Github.
+I like many lovely things in the world.
+
 <!--
 **JennyLi66/JennyLi66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
